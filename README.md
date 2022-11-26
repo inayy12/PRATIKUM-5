@@ -41,7 +41,7 @@ pyhoton:```del r['Dina']
 ## Penyelesaian Tugas
 
 1. Membuat Dictionary lalu diinput dengan data
-   ``` data={} ```
+   ``` data={}``
 
 2. Membuat peluang dengan while dan terdapat pilihan menu untuk menjalankan program.
 ```
