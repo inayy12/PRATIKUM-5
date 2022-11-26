@@ -1,4 +1,8 @@
 #Lab5py
+## Inayatus sholekhawati
+## 312210200
+## TI.22.A.2
+
 ### PRATIKUM 5
 ### LATIHAN DICTIONARY
 ```
